@@ -10,3 +10,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+posts:
+  - title: Tech
+    children:
+      - title: "Install Sentry"
+        url: /posts/2020-02-15-install_sentry/
